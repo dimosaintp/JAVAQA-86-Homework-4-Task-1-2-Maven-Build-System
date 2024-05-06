@@ -1,6 +1,8 @@
+package ru.netology.javaqa.javaqamvn.services; //добавили класс в один пакет с тестируемым.
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
-import ru.netology.BonusService;
+// import ru.netology.javaqa.javaqamvn.services.BonusService;
 
 public class BonusServiceTest {
 
